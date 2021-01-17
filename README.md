@@ -1,4 +1,4 @@
 # DoctorsOffice
-Operating System homework (somehow similar to sleeping barbers problem)
-about Process Synchronization
-Dr Mohsen EbrahimiMoghaddam
+homework about Process Synchronization (somehow similar to sleeping barbers problem)
+
+Operating System, Dr Mohsen EbrahimiMoghaddam
